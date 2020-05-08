@@ -4,6 +4,24 @@ body {
     line-height: 2;
 }
 
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.content {
+    min-height: 100%;
+}
+
+footer {
+    height: 50px;
+    margin-top: -50px;
+    padding-bottom: 3%;
+    color: gray;
+    padding-top: 10%; 
+    padding-bottom: 5%;
+}
+
 table th {
     width: auto !important;
 }
