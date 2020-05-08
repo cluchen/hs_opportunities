@@ -1,5 +1,5 @@
 body {
-    padding: 10% 10%;
+    padding: 7% 10%;
     font-size: 12px; 
     line-height: 2;
 }
@@ -24,7 +24,38 @@ table th {
     width: 7% !important;
 }
 
+img {
+    height: 400px; 
+    float: right; 
+    padding-top: 20px;
+}
 
+nav { 
+    clear: right;
+    padding-top: 10%;
+}
+
+.landing-container {
+    position: relative;
+}
+
+h1 {
+    font-size: 80px;
+    position: absolute;
+}
+
+h3 {
+    padding-top: 150px; 
+    font-weight: 400;
+    font-size: 18px;
+    color: gray;
+    line-height: 1.5;
+    width: 50%;
+}
+
+.update {
+    padding-top: 50px; 
+}
 
 .tab-pane {
     padding-top: 3%;
