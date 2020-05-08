@@ -1,0 +1,51 @@
+body {
+    padding: 10% 10%;
+    font-size: 12px; 
+    line-height: 2;
+}
+
+table th {
+    width: auto !important;
+}
+
+#two, #five {
+    width: 15% !important;
+}
+
+#one{
+    width: 3% !important;
+}
+
+#three{
+    width: 6% !important;
+}
+
+#four {
+    width: 7% !important;
+}
+
+
+
+.tab-pane {
+    padding-top: 3%;
+}
+
+.top th {
+    border-top: none;
+    font-weight: 400;
+    color: gray;
+}
+
+.table thead th {
+    border-bottom: none; 
+}
+
+.r {
+    font-weight: 400;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #5EA8F8;
+    transition: .3s ease-in-out;
+}
